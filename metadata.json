@@ -1,0 +1,5 @@
+{
+  "name": "HRFlow Designer",
+  "description": "A visual HR workflow designer with drag-and-drop capabilities, node configuration, and process simulation.",
+  "requestFramePermissions": []
+}
